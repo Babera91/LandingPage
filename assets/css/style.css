@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&display=swap');
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(32, 32, 32);
+    color:white;
+}
+header{
+    font-family: 'Dancing';
+    margin:2% 0% 6% 7%;
+}
+footer{
+    margin-top: 5%;
+    text-align: center; 
+}
+main section:first-of-type{
+    font-family: 'Dancing';
+    margin: 0% 7% 10% 50%;
+}
+.secondUnderline{
+    font-family: 'Tourney';
+    margin-left: 6%;
+}
+.table1{
+    box-shadow: 1px 1px 30px 1px black;
+    font-family: 'Pacifico';
+    margin: 0% 40% 4% 7%;
+    padding-left:2%;
+}
+.table2{
+    box-shadow: 1px 1px 30px 1px black;
+    margin: 0% 7% 4% 45%;
+    padding-left:2%;
+    
+}
+.table3{
+    box-shadow: 1px 1px 30px 1px black;
+    margin: 0% 45% 4% 7%;
+    padding-left:2%;
+}
+.mail{
+    display: inline-block;
+    text-decoration: none;
+    border:solid;
+    border-radius: 51px;
+    padding: 1% 10%;
+    font-size: 1em;
+}
+.contact{
+    background-color: rgb(74, 114, 114);
+    margin:0% 35% 4% 35%;
+    padding: 8% 10%;
+    font-size: 2em;
+    font-family: 'Tourney';
+}
+h4{
+    background-color: rgb(74, 114, 114);
+    margin-bottom: 4%;
+}
+h2{
+    font-family: 'Tourney';
+}
+img{
+    width: 380px;
+    height: 300px;
+}
